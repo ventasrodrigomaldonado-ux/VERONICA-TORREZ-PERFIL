@@ -153,7 +153,7 @@ document.querySelectorAll('.nav-links a').forEach(link=>{
 
 console.log(`
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-RODRIGO MALDONADO
+LIC. VERONICA TORREZ
 PREMIUM REAL ESTATE PROFILE
 Powered by Barrio Digital
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
